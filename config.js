@@ -1,6 +1,6 @@
 userbot = {
  owner: [ "6287820239077" ],
-  MONGO_URI: "mongodb+srv://<username>:<password>@cluster0.eyx0e.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  MONGO_URI: "mongodb+srv://seibot:kontolodon@cluster0.eyx0e.mongodb.net/<dbname>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
